@@ -1,0 +1,25 @@
+numpy
+opencv-python
+torch
+torchvision
+matplotlib
+pandas
+scikit-learn
+seaborn
+tqdm
+pyyaml
+albumentations
+wandb
+jupyter
+notebook
+
+# YOLO dependencies
+ultralytics
+yolov5
+
+# Detectron2 dependencies
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git
+fvcore
+pycocotools
+iopath
+omegaconf
